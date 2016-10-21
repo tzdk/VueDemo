@@ -1,4 +1,4 @@
 # VueDemo
 VueJS Demo
 
-[a link](https://www.baidu.com/)
+[双向绑定](https://tzdk.github.io/VueDemo/01.Start/index.html)
