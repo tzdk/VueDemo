@@ -1,4 +1,3 @@
 # VueDemo
-VueJS Demo
-
-[a link](https://github.com/tzdk/VueDemo/blob/master/01.Start/index.html)
+## Vue入门
+[Hello World!双向绑定事例](https://tzdk.github.io/VueDemo/01.Start/index.html)
