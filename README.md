@@ -15,5 +15,4 @@
 
 ### 列表渲染
 [v-for指令示例](https://tzdk.github.io/VueDemo/02.ConditionalRendering/v-for-demo.html),官方示例v-for="(item,index) in items",第二个参数为索引，经测试第一个参数为索引，所以正确的代码应该为：v-for="(index,item) in items"
-
 [v-for-props指令示例](https://tzdk.github.io/VueDemo/02.ConditionalRendering/v-for.html)
