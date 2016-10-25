@@ -18,3 +18,9 @@
 - [v-for-props指令示例](https://tzdk.github.io/VueDemo/02.ConditionalRendering/v-for.html)
 
 ## 3.组件 Components
+- [开始使用组件](https://tzdk.github.io/VueDemo/03.Components/simple-demo.html)组建的创建和使用过程如下：
+1. Vue.extend()是Vue构造器的扩展，调用Vue.extend()创建的是一个组件构造器。 
+2. Vue.extend()构造器有一个选项对象，选项对象的template属性用于定义组件要渲染的HTML。 
+3. 使用Vue.component()注册组件时，需要提供2个参数，第1个参数时组件的标签，第2个参数是组件构造器。 
+4. 组件应该挂载到某个Vue实例下，否则它不会生效。
+- 组件[简写方式](https://tzdk.github.io/VueDemo/03.Components/simple-demo-another.html)，可以省略extend方法：
