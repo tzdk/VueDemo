@@ -27,3 +27,6 @@
 4. 组件应该挂载到某个Vue实例下，否则它不会生效。
 
 - 组件[简写方式](https://tzdk.github.io/VueDemo/03.Components/simple-demo-another.html)，可以省略extend方法：
+- [全局注册组件示例](https://tzdk.github.io/VueDemo/03.Components/simple-demo-another.html)，调用Vue.component()注册组件时，组件的注册是全局的，这意味着该组件可以在任意Vue示例下使用。
+如果不需要全局注册，或者是让组件使用在其它组件内，可以用选项对象的components属性实现局部注册。
+- [局部注册组件示例](https://tzdk.github.io/VueDemo/03.Components/simple-demo-another.html)
