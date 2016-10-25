@@ -36,4 +36,7 @@
 - [Template标签](https://tzdk.github.io/VueDemo/03.Components/template-tag.html),如果使用 template 标签，则不需要指定type属性。
 
 ### 组件props使用
-
+- [props基础示例](https://tzdk.github.io/VueDemo/03.Components/props-simple-demo.html)
+- [props单向绑定](https://tzdk.github.io/VueDemo/03.Components/single-bind-props.html)，默认是单向绑定。
+- [props双向绑定](https://tzdk.github.io/VueDemo/03.Components/double-bind-props.html)
+- [props单次绑定](https://tzdk.github.io/VueDemo/03.Components/once-bind-props.html)，单次绑定完成以后不会彼此同步双方的变化。
