@@ -40,3 +40,5 @@
 - [props单向绑定](https://tzdk.github.io/VueDemo/03.Components/single-bind-props.html)，默认是单向绑定。
 - [props双向绑定](https://tzdk.github.io/VueDemo/03.Components/double-bind-props.html)
 - [props单次绑定](https://tzdk.github.io/VueDemo/03.Components/once-bind-props.html)，单次绑定完成以后不会彼此同步双方的变化。
+
+### 组件slot使用
