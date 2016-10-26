@@ -49,3 +49,7 @@
 - [$children示例](https://tzdk.github.io/VueDemo/03.Components/children.html)
 - [$refs示例](https://tzdk.github.io/VueDemo/03.Components/refs.html)
 - [$parent示例](https://tzdk.github.io/VueDemo/03.Components/parent.html)
+
+### 父子组件通信
+- [$dispatch向上派发事件示例](https://tzdk.github.io/VueDemo/03.Components/dispatch.html)
+- [$broadcast向下广播事件示例](https://tzdk.github.io/VueDemo/03.Components/broadcast.html)
