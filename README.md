@@ -42,3 +42,5 @@
 - [props单次绑定](https://tzdk.github.io/VueDemo/03.Components/once-bind-props.html)，单次绑定完成以后不会彼此同步双方的变化。
 
 ### 组件slot使用
+- [单个slot示例](https://tzdk.github.io/VueDemo/03.Components/single-slot.html)
+- [多个slot示例](https://tzdk.github.io/VueDemo/03.Components/dialog-slot.html)
