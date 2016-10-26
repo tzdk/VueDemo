@@ -53,3 +53,7 @@
 ### 父子组件通信
 - [$dispatch向上派发事件示例](https://tzdk.github.io/VueDemo/03.Components/dispatch.html)
 - [$broadcast向下广播事件示例](https://tzdk.github.io/VueDemo/03.Components/broadcast.html)
+
+### 其他
+- [计算属性](https://tzdk.github.io/VueDemo/03.Components/computed.html)
+- [Methods](https://tzdk.github.io/VueDemo/03.Components/broadcast.html),最终结果一样，不同点：计算属性只有在依赖属性变化时才会重新计算，Methods每次都会重新计算，根据实际情况选择使用。
