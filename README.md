@@ -44,3 +44,8 @@
 ### 组件slot使用
 - [单个slot示例](https://tzdk.github.io/VueDemo/03.Components/single-slot.html)
 - [多个slot示例](https://tzdk.github.io/VueDemo/03.Components/dialog-slot.html)
+
+### 父子组件实例访问
+- [$children示例](https://tzdk.github.io/VueDemo/03.Components/children.html)
+- [$refs示例](https://tzdk.github.io/VueDemo/03.Components/refs.html)
+- [$parent示例](https://tzdk.github.io/VueDemo/03.Components/parent.html)
